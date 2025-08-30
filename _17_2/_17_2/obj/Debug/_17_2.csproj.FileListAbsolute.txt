@@ -1,0 +1,8 @@
+G:\New folder\New folder\_17_2\_17_2\bin\Debug\_17_2.exe.config
+G:\New folder\New folder\_17_2\_17_2\bin\Debug\_17_2.exe
+G:\New folder\New folder\_17_2\_17_2\bin\Debug\_17_2.pdb
+G:\New folder\New folder\_17_2\_17_2\obj\Debug\_17_2.Form1.resources
+G:\New folder\New folder\_17_2\_17_2\obj\Debug\_17_2.Properties.Resources.resources
+G:\New folder\New folder\_17_2\_17_2\obj\Debug\_17_2.csproj.GenerateResource.Cache
+G:\New folder\New folder\_17_2\_17_2\obj\Debug\_17_2.exe
+G:\New folder\New folder\_17_2\_17_2\obj\Debug\_17_2.pdb
